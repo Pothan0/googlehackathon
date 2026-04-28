@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+pillow==10.4.0
+numpy==1.26.4
+scipy==1.13.1
+imagehash==4.3.1
+aiosqlite==0.20.0
+sqlalchemy[asyncio]==2.0.31
+pydantic==2.8.0
+python-multipart==0.0.9
+requests
+scikit-image
+aiohttp
+beautifulsoup4
+cryptography
+lxml
+opencv-python-headless
