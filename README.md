@@ -354,9 +354,9 @@ Browser-mimicking async crawler with:
 <table>
 <tr>
 <td align="center"><b>Pothan</b><br/>Lead Developer<br/><sub>Architecture · Cybersecurity</sub></td>
-<td align="center"><b>Charan</b><br/>Backend Engineer<br/><sub>API Design · Systems</sub></td>
-<td align="center"><b>Sasirekha</b><br/>ML/AI Engineer<br/><sub>Computer Vision · DSP</sub></td>
-<td align="center"><b>Izhaar</b><br/>Frontend/DevOps<br/><sub>UI/UX · Cloud</sub></td>
+<td align="center"><b>T Rekha Sree</b><br/>Backend Engineer<br/><sub>API Design · Systems</sub></td>
+<td align="center"><b>Aryan Ubale</b><br/>ML/AI Engineer<br/><sub>Computer Vision · DSP</sub></td>
+<td align="center"><b>Pundru Madhulika</b><br/>Frontend/DevOps<br/><sub>UI/UX · Cloud</sub></td>
 </tr>
 </table>
 
